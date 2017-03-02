@@ -23,3 +23,4 @@ Project included:
 - Unity Container for DI
 - SignalR for real time data push
 - AutoMapper for Object mapping
+- jQuery, jQuery UI, Bootstrap for UI
